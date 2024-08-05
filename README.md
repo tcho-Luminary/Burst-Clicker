@@ -1,1 +1,2 @@
-just a fun project
+Just a fun project
+But might be really useful.
