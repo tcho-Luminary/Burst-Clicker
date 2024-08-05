@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5431211f-57fe-4c64-b46d-95f110ee23f9" name="Changes" comment="" />
+    <list default="true" id="5431211f-57fe-4c64-b46d-95f110ee23f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/download/burst_clicker.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +37,10 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python.burst_clicker.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Tabu/Documents/GitHub/Burst-Clicker"
+    "last_opened_file_path": "C:/Users/Tabu/Desktop/compile"
   }
 }]]></component>
   <component name="SharedIndexes">
